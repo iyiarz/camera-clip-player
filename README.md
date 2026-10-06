@@ -71,8 +71,6 @@ few hundred bytes of a `.media` file, which is enough to identify the layout:
 head -c 512 0012.media | xxd
 ```
 
-Don't attach whole recordings. They contain footage of your home.
-
 ## Contributing
 
 The interesting work is compatibility with more cameras. If you get it working
